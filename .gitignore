@@ -1,0 +1,16 @@
+build
+
+
+# CMake stuff
+
+CMakeFiles
+CMakeCache.txt
+cmake_install.cmake
+
+
+# Visual Studio stuff
+
+*.sln
+*.vcxproj*
+*.proj*
+.vs
